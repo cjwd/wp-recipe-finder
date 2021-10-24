@@ -1,0 +1,66 @@
+[
+	{
+		"name": "Vodka",
+		"id": 182
+	},
+	{
+		"name": "Gin",
+		"id": 160
+	},
+	{
+		"name": "Rum",
+		"id": 176
+	},
+	{
+		"name": "Cognac",
+		"id": 159
+	},
+	{
+		"name": "Whisky",
+		"id": 184
+	},
+	{
+		"name": "Speciality Liqueurs",
+		"id": 179
+	},
+	{
+		"name": "Bitters",
+		"id": 157
+	},
+	{
+		"name": "Champagne",
+		"id": 158
+	},
+	{
+		"name": "Lemon",
+		"id": 164
+	},
+	{
+		"name": "Lime",
+		"id": 165
+	},
+	{
+		"name": "Mint",
+		"id": 168
+	},
+	{
+		"name": "Ginger",
+		"id": 161
+	},
+	{
+		"name": "Honey",
+		"id": 163
+	},
+	{
+		"name": "Pineapple",
+		"id": 171
+	},
+	{
+		"name": "Sparkling Water",
+		"id": 177
+	},
+	{
+		"name": "Tonic Water",
+		"id": 181
+	}
+]
